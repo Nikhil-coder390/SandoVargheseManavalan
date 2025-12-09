@@ -86,7 +86,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © {currentYear} Sando Varghese Manavalan. All rights reserved.
+              © A Kodryx AI Product. copyrights 2025 {currentYear}
             </p>
             <div className="flex items-center space-x-2">
               <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
